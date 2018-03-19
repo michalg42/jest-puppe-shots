@@ -36,13 +36,13 @@
   "peerDependencies": {
     "jest": ">= 22.0.0",
     "react": ">= 15.0.0",
-    "react-dom": ">= 15.0.0"
+    "react-dom": ">= 15.0.0",
+    "styled-components": ">= 3.0.0"
   },
   "dependencies": {
     "jest-image-snapshot": "^2.3.0",
     "jest-puppe-shots-env": "^0.7.0",
-    "jest-puppe-shots-preset": "^0.7.0",
-    "styled-components": "^2.0.0"
+    "jest-puppe-shots-preset": "^0.7.0"
   },
   "devDependencies": {
     "css": "^2.2.1",

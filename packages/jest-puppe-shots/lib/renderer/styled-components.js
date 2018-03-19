@@ -1,6 +1,6 @@
 const { renderToString } = require('react-dom/server');
 const { ServerStyleSheet } = require('styled-components');
-const { default: StyleSheet } = require('styled-components/lib/models/StyleSheet');
+const { __DO_NOT_USE_OR_YOU_WILL_BE_HAUNTED_BY_SPOOKY_GHOSTS: { StyleSheet } } = require('styled-components');
 
 const { wrapReactHtmlOutput } = require('./common');
 
